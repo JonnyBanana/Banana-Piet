@@ -18,7 +18,7 @@ https://www.bertnase.de/npiet/npiet-execute.php
 then upload the chosen work in png format
 and click on "upload and execute" or "upload and ask about" input as appropriate...
 
-<BR>
+<BR><BR>
 
 <p>
   <img src="https://raw.githubusercontent.com/JonnyBanana/Banana-Piet/refs/heads/main/Images/Number%2B1.png" width="700">
