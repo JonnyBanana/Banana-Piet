@@ -4,7 +4,7 @@ Some of my Piet Algorithms/Artworks
 <BR>
 
 <p>
-  <img src="https://raw.githubusercontent.com/JonnyBanana/Banana-Piet/refs/heads/main/Images/Number%2B1.png" width="500">
+  <img src="https://raw.githubusercontent.com/JonnyBanana/Banana-Piet/refs/heads/main/Images/Number%2B1.png" width="600">
 </p>
 
 <BR>
