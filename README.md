@@ -39,6 +39,8 @@ and click on <b>"upload and execute"</b> or <b>"upload and ask about"</b> input 
   <img src="https://raw.githubusercontent.com/JonnyBanana/Banana-Piet/refs/heads/main/Images/Number%2B1.png" width="700">
 </p>
 
+<b>This example requests a number as input (upload and ask about input) and performs an addition of +1 to the number provided</b>
+
 <BR>
 
 <p>
