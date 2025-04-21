@@ -63,15 +63,33 @@ and click on <b>"upload and execute"</b> or <b>"upload and ask about"</b> input 
 
 <BR>
 
+<h3>Block Guys</h3>
+
 <p>
   <img src="https://raw.githubusercontent.com/JonnyBanana/Banana-Piet/refs/heads/main/Images/SquareofaNumber.png" width="700">
 </p>
 
+<b>This example performs the squaring of a number that can be entered as input into Piet's editor (upload and ask about input)</b>
+
 <BR>
+
+<h3>Fairy Nightmare</h3>
 
 <p>
   <img src="https://raw.githubusercontent.com/JonnyBanana/Banana-Piet/refs/heads/main/Images/FairyNumber%2B1.png" width="700">
 </p>
+
+<b>This example requests a number as input (upload and ask about input) and performs an addition of +1 to the number provided</b>
+
+<BR>
+
+<h3>Square Cluster</h3>
+
+<p>
+  <img src="https://raw.githubusercontent.com/JonnyBanana/Banana-Piet/refs/heads/main/Images/SquareCluster.png" width="700">
+</p>
+
+<b>This example performs the squaring of a number that can be entered as input into Piet's editor (upload and ask about input)</b>
 
 <BR>
 
