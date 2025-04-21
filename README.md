@@ -10,7 +10,7 @@ Some of my Piet Algorithms/Artworks
 <BR>
 
 <p>
-  <img src="https://raw.githubusercontent.com/JonnyBanana/Banana-Piet/refs/heads/main/Images/NumbersSquareTube.png" width="350">
+  <img src="https://raw.githubusercontent.com/JonnyBanana/Banana-Piet/refs/heads/main/Images/NumbersSquareTube.png" width="700">
 </p>
 
 <BR>
