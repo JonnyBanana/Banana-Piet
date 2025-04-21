@@ -22,7 +22,7 @@ and click on "upload and execute" or "upload and ask about" input as appropriate
 
 <p>
   
-  <img src="https://raw.githubusercontent.com/JonnyBanana/Banana-Piet/refs/heads/main/Images/Piet-Example.PNG" width="500">
+  <img src="https://raw.githubusercontent.com/JonnyBanana/Banana-Piet/refs/heads/main/Images/Piet-Example.PNG" width="700">
 </p>
 
 <BR><BR>
