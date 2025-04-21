@@ -25,6 +25,8 @@ and click on "upload and execute" or "upload and ask about" input as appropriate
   <img src="https://raw.githubusercontent.com/JonnyBanana/Banana-Piet/refs/heads/main/Images/Piet-Example.PNG" width="700">
 </p>
 
+<p>This example performs the squaring of a number that can be entered as input into Piet's editor</p>
+
 <BR><BR>
 
 <h2>Some of my Piet Algo</h2>
