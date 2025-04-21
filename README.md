@@ -21,7 +21,7 @@ and click on "upload and execute" or "upload and ask about" input as appropriate
 <BR>
 
 <p>
-  <img src="[https://raw.githubusercontent.com/JonnyBanana/Banana-Piet/refs/heads/main/Images/Number%2B1.png](https://raw.githubusercontent.com/JonnyBanana/Banana-Piet/refs/heads/main/Images/Piet-Example.PNG)" width="500">
+  <img src="https://raw.githubusercontent.com/JonnyBanana/Banana-Piet/refs/heads/main/Images/Number%2B1.png" width="500">
 </p>
 
 <BR><BR>
