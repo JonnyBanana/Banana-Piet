@@ -31,7 +31,9 @@ and click on <b>"upload and execute"</b> or <b>"upload and ask about"</b> input 
 
 <h2>Some of my Piet Algo</h2>
 
-<BR>
+<BR
+
+<h3> Pyramid</h3>
 
 <p>
   <img src="https://raw.githubusercontent.com/JonnyBanana/Banana-Piet/refs/heads/main/Images/Number%2B1.png" width="700">
