@@ -49,11 +49,17 @@ and click on <b>"upload and execute"</b> or <b>"upload and ask about"</b> input 
   <img src="https://raw.githubusercontent.com/JonnyBanana/Banana-Piet/refs/heads/main/Images/NumbersSquareTube.png" width="700">
 </p>
 
+<b>This example performs the squaring of a number that can be entered as input into Piet's editor (upload and ask about input)</b>
+
 <BR>
+
+<h3>Mario Squared</h3>
 
 <p>
   <img src="https://raw.githubusercontent.com/JonnyBanana/Banana-Piet/refs/heads/main/Images/Mario.png" width="700">
 </p>
+
+<b>This example performs the squaring of a number that can be entered as input into Piet's editor (upload and ask about input)</b>
 
 <BR>
 
