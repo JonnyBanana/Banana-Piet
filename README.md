@@ -16,7 +16,7 @@ These are some of my most successful examples!
 To test the algorithms go here:
 https://www.bertnase.de/npiet/npiet-execute.php
 then upload the chosen work in png format
-and click on "upload and execute" or "upload and ask about" input as appropriate...
+and click on <b>"upload and execute"</b> or <b>"upload and ask about"</b> input as appropriate...
 
 <BR>
 
